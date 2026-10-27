@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TaxBandits is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://taxbandits.com/
+TaxBandits provides an e‑filing platform for IRS forms such as 1099, W‑2, W‑9, 1095, 941 and more, offering APIs that let developers integrate tax form filing, status checks, and document retrieval into their applications. Their service supports individuals, tax professionals, and enterprises, with features like AI‑assisted filing, secure data handling, and compliance with IRS regulations.
+
+**Areas:** Tax · API · E‑filing · IRS · Automation · Finance
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://taxbandits.com/)
+- [Documentation](https://developer.taxbandits.com/docs/2.0.0/Overview)
+- [Getting started](https://developer.taxbandits.com/get-started)
+- [Pricing](https://www.taxbandits.com/pricing)
+- [Sign up](https://sandbox.taxbandits.com/Register)
+- [Support](https://developer.taxbandits.com/contact-us)
+- [Blog](https://developer.taxbandits.com/blog)
+- [Compliance](https://www.taxbandits.com/page-not-found/?aspxerrorpath=/trust/)
+- [Terms of service](https://www.taxbandits.com/terms)
+- [Privacy policy](https://www.taxbandits.com/privacy)
+- [GitHub](https://github.com/TaxBandits)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/taxbandits/](https://apis.io/providers/taxbandits/).
